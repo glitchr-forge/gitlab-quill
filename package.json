@@ -13,6 +13,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "quil": "^1.3.7"
+    "quill": "^1.3.7"
   }
 }
