@@ -1,6 +1,6 @@
 {
   "name": "@glitchr/quill",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Quill extension",
   "main": "src/index.js",
   "repository": {
