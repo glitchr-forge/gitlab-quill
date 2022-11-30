@@ -1,4 +1,4 @@
 
-import 'quill';
-
-import './css/index.css';
+import 'bootstrap'
+import 'moment'
+import 'eonasdan-bootstrap-datetimepicker'
