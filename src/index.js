@@ -1,6 +1,4 @@
 
-import 'moment'
-import 'bootstrap'
+import 'quill';
 
-import './js/datetimepicker.4.17.47.js'
-import './css/index.scss';
+import './css/index.css';
