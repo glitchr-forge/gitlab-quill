@@ -1,4 +1,4 @@
 
-// import 'quill';
+import 'quill';
 
 import './css/index.css';
