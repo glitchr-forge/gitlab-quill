@@ -4,8 +4,8 @@
   "description": "Quill extension",
   "main": "src/index.js",
   "repository": {
-    "url": "ssh://git@gitlab.glitchr.dev:public-repository/javascript/quill.git",
-    "type": "git"
+    "type": "git",
+    "url": "git+https://github.com/glitchr-studio/quill.git"
   },
   "author": "Marco Meyer <marco.meyer@glitchr.io>",
   "license": "LGPL-3.0-or-later",
